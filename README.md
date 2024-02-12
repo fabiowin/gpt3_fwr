@@ -1,8 +1,21 @@
-# React + Vite
+# GPT3_FWR
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="./public/gpt3_home.png" alt="home page">
 
-Currently, two official plugins are available:
+Frontend project based on [this](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3) Figma template.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live preview: https://gpt3-fwr.vercel.app/
+
+### Built With
+
+* [![React][React.js]][React-url]
+
+
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+
+## Acknowledgments
+
+* Block Element Modifier (BEM)
+* Responsiveness
