@@ -11,7 +11,10 @@ function App() {
       </div>
       <Brand />
       <WhatGPT3 />
+      <div className="gradient__bg-inverted">
       <Features />
+
+      </div>
       <Possibility />
       <CTA />
       <Blog />
